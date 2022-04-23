@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lesego-phy
 - 👀 I’m interested in Computational physics
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science and physics
+- 💞️ I’m looking to collaborate with anybody enthusiastic about WORKING COMPUTATIONALLY...
 - 📫 How to reach me ...
 
 <!---
